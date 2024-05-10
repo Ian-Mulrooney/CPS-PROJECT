@@ -1,0 +1,196 @@
+.purple-hr{
+    border-bottom: 2px solid palegreen;
+    width: 150px;
+    margin: auto;
+}
+body{
+    font-family: garamond, helvetica, serif;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: palegreen;
+    text-align: center;
+    padding: 25px;
+}
+header h1{
+    font-weight: 400;
+    letter-spacing: .1em;
+}
+nav{
+    margin: 30px;
+}
+a{
+    color: teal;
+    text-decoration: none;
+    padding: 10px 20 px;
+    border-radius: 5px;
+}
+.background.img{
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.main-header{
+    text-align: center;
+    padding: 25px;
+}
+.main-header h2 .main-header h5{
+    font-weight: 400;
+}
+.main-content img{
+    display: block;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: auto;
+}
+.main-content p{
+    width: 500px;
+    margin: 40px;
+    border: 1px solid palegreen;
+    padding: 30px;
+    border-radius: 5px;
+}
+img{
+    height: 150px;
+    width: 150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+image{
+    height: 150px;
+    width: 150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+image{
+    height: 150px;
+    width: 150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+body {
+    background-color: palegreen;
+  }
+
+
+h2{
+    font-family: garamond, helvetica, serif;
+    orientation: landscape ;
+    margin: 20px;
+    border-bottom: 2px solid palevioletred
+    
+}
+p{
+    font-family: arial, helvetica, sans-serif;
+    orientation: landscape ;
+    margin: center;
+    border-bottom: 2px solid palevioletred
+}
+img{
+    margin: 100px;
+    width:  200 px;
+}
+.container-1 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.container-1 div {
+width: 75 px;
+Height: 75 px;
+}
+
+.container-2{
+    width: 75 px;
+    Height: 75 px;
+    background-color: #98FB98;
+    opacity: 0.8;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    }
+
+main{
+    background-color: #98FB98;
+    opacity: 0.3;
+}
+h2{
+    font-family: garamond, helvetica, serif;
+    text-align: centered;
+    margin: 20px;
+    border-bottom: 2px solid palevioletred
+}
+.background.img{
+    background-image: 'https://www.bhphotovideo.com/images/images500x500/Rosco_102301382124_E_Colour_138_Pale_Green_163045.jpg'; 
+    height: 250px;
+    width: 100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+p{
+    font-family: garamond, helvetica, serif;
+   text-align: center;
+    margin: 20px;
+    border-bottom: 2px solid palevioletred
+}
+
+.container-3{
+    background-color: lightblue;
+    color: lightred; 
+    font-family: 'Comfortaa';font-size: 30px;
+    font-style: bold;
+    margin: 40px 100px 120px 80px;
+    padding-left: 50px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+.container-3 p{
+    font-style: italic;
+    font-family: 'Comfortaa';font-size: 24px;
+    background-color: lightblue;
+    color: lightred;
+}
+ul{
+    font-style: italic;
+    font-family: 'Comfortaa';font-size: 24px;
+    background-color: lightblue;
+    color: lightred;
+}
+body{
+    background-color: lightblue;
+}
+.container-4{
+    font-family: garamond, helvetica, serif;
+    text-align: center;
+     margin: 20px;
+     border-bottom: 2px solid palevioletred
+    backgroundcolor; #98FB98
+}
+h2{
+    font-size: large;
+    text-align: center;
+    color: lightred;
+}
+img{
+    height: 250px;
+    width: 250px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
